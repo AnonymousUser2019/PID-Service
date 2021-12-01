@@ -8,7 +8,8 @@ The service is under development.
 
 # Adding / Updating PURLs
 
-Please use one of the following options to make add or update your PURLs:
+Please use one of the following options to make add or update your PURLs 
+which wll be in the form `https://purl.hmc-services.de/[prefx]/[subdirectory]`:
 
 1. [Create a new issue](https://github.com/saidfathalla/PID_repo/issues/new) describing the change you require.
 
